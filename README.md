@@ -13,3 +13,5 @@ Mi proyecto final es una tienda online funcional hecha con HTML, CSS, PHP y Java
 3. Descargar y utilizar XAMPP en localhost con los servidores de Apache y SQL
 
 4. Abrir el archivo index.php desde localhost en el navegador --> /PROYECTO TIENDA/index.php
+
+También se puede acceder por: **https://gapcomponents.atwebpages.com**
